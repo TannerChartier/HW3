@@ -1,0 +1,88 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 28, 2015, 6:46:25 PM
+    Author     : Tanner Chartier
+*/
+table.output{
+    width:80%;
+    margin:0 auto;
+    font-size: 16pt;
+    color:black;
+    background-color: white;
+}
+table.output td{
+    width:60%;
+    color:black;
+   
+}
+table.output td label{
+    color: black;
+}
+div.links{
+    padding: 20px;
+    font-size: 14pt;
+    text-align:center;
+}
+div.main{
+    width:500px;
+    margin: 20px;
+    background-color: #4da8e5;
+    display:block;
+}
+div.center{
+    text-align:center;
+}
+form, td, tr {
+    width: 80%;
+    margin:0 auto; 
+}
+form{
+    padding-bottom: 20px;
+}
+tr label, input{
+    vertical-align:bottom;
+    font-size:16pt;
+    font-weight:bold;
+    display: inline-block;
+    
+}
+
+td label{
+    
+    float: right;
+    color: #ffffff;
+    
+}
+
+input[type="reset"], input[type="submit"]{
+    display: inline-block;
+    font-size:12pt;
+    font-weight: normal;
+    margin:10px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    
+}
+table td{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+h1{
+    color: #ffffff;
+    font-size:26pt;
+    font-weight:bold;
+    text-align:center;
+    line-height:65%;
+    padding-top: 10px;
+}
+
+hr{
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
